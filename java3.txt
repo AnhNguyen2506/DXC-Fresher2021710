@@ -1,7 +1,5 @@
 đây là java 3
 đây là dòng 2b
-<<<<<<< HEAD
 day la dong 3b
-=======
 day la dong 3a
->>>>>>> 4117249449a3959a838959412be0ff14855c0b1c
+
